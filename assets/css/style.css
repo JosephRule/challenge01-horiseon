@@ -58,8 +58,8 @@ body {
     background-position: center;
 }
 
-/* style for services section */
-.services-section {
+/* style for center services section */
+.center-section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
@@ -78,7 +78,7 @@ body {
 
 .service h2 {
 
- 
+
     font-size: 36px;
 }
 
@@ -103,7 +103,7 @@ body {
 }
 
 /* benefits sidebar */
-.benefits {
+.side-section {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -115,22 +115,22 @@ body {
 }
 
 /* benefit elements */
-.benefits div {
+.side-section div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefits  div h3 {
+.side-section  div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefits div img {
+.side-section div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefits div p {
+.side-section div p {
     font-size: 16px;
 }
 
